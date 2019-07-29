@@ -1,1 +1,3 @@
-print ("Hello Fumzy")
+a= "welcome"
+print (a +" Hello Fumzy")
+
